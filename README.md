@@ -1,17 +1,17 @@
 ## BlurredImage
-[A blurred image]
-
-## Features
-[feature highlights]
+Mendix PluggableWidget to display a version as blurred.
 
 ## Usage
-[step by step instructions]
+
+Set the image and the blurRadius (must be 10 or greater)
 
 ## Demo project
-[link to sandbox]
+
+TBD
 
 ## Issues, suggestions and feature requests
-[link to GitHub issues]
+
+Post Issues on [GitHub](https://github.com/jdiehl/mendix-blurred-image/issues)
 
 ## Development and contribution
 
@@ -20,5 +20,3 @@
     - the widget will be bundled;
     - the bundle will be included in a `dist` folder in the root directory of the project;
     - the bundle will be included in the `deployment` and `widgets` folder of the Mendix test project.
-
-[specify contribution]
