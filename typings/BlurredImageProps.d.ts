@@ -9,6 +9,8 @@ export interface BlurredImageProps<Style> {
     name: string;
     style: Style[];
     image: DynamicValue<NativeImage>;
+    width: number;
+    height: number;
     blurRadius: number;
 }
 
@@ -16,5 +18,7 @@ export interface BlurredImagePreviewProps {
     class: string;
     style: string;
     image: string;
+    width: number | null;
+    height: number | null;
     blurRadius: number | null;
 }
